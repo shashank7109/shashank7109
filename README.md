@@ -154,15 +154,6 @@ class shashank7109:
 
 ---
 
-## 🏆 Achievements
-
-| 🥉 2nd Runner-Up | Exergy, IIT Kanpur |
-|---|---|
-| 🚀 Top 8 Startup Pitch | Azeotropy, IIT Bombay |
-| 📐 IMO Level 2 | Qualified |
-| 📝 JEE Mains & Advanced | Qualified |
-
----
 
 ## 📫 Let's Connect
 
