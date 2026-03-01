@@ -34,12 +34,6 @@ class shashank7109:
     mindset    = "Ship fast. Measure everything. Iterate."
 ```
 
-- 💼 **SWE Intern @ Myschord** — building **QuizerAI**, an AI Quiz & Classroom SaaS serving 5,000+ concurrent users
-- 🕉️ Shipped **[gitaforyouth.com](https://gitaforyouth.com)** — Bhagavad Gita certification platform in partnership with **ISKCON**
-- 🤖 Building **Smaran AI** — voice-first AI task & reminder scheduler with sub-2s STT/TTS latency
-- 🌐 Built **[ieeergipt.in](https://ieeergipt.in)** — IEEE chapter platform serving **980+ members**
-- 🏆 2nd Runner-Up **Exergy @ IIT Kanpur** · Top 8 Startup Pitch **Azeotropy @ IIT Bombay**
-- 🤝 Co-Head: **Kode Club** · **CS Society (IEEE)** · **Study Circle** @ RGIPT
 
 ---
 
